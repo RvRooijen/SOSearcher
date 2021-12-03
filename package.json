@@ -1,0 +1,17 @@
+{
+	"name": "com.rick.sosearcher",
+	"displayName": "SOSearcher",
+	"version": "0.1.0",
+	"unity": "2019.1",
+	"description": "So filter.",
+	"keywords": [
+		"tools",
+		"unity"
+	],
+	"category": "Unity",
+	"author": {
+    "name": "Rick van Rooijen",
+    "email": "rick.van.rooijen1993@gmail.com",
+    "url": "rickvanrooijen.nl"
+  }
+}
